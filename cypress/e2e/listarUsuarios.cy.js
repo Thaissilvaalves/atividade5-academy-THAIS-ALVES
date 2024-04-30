@@ -1,4 +1,4 @@
-describe("Testes de rotas / list users", () => {
+describe("Testes de listar usuários", () => {
   beforeEach(() => {
     cy.visit("/users");
   });
