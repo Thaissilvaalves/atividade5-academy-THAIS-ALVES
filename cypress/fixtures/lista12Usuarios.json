@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a73ee322-cd82-4bac-81f0-0b7147a06fd3",
+    "name": "Stevie",
+    "email": "maximus83@yahoo.com",
+    "createdAt": "2024-04-29T23:32:03.651Z",
+    "updatedAt": "2024-04-29T23:32:03.651Z"
+  },
+  {
+    "id": "ed5b9203-5c7e-4a45-9790-7121b95b578e",
+    "name": "Kristi Greenfelder",
+    "email": "Annamae.Rempel@yahoo.com",
+    "createdAt": "2024-04-29T23:32:17.492Z",
+    "updatedAt": "2024-04-29T23:32:17.492Z"
+  },
+  {
+    "id": "cea04bea-1c64-4f4e-a2d0-e7b7a4b83b8a",
+    "name": "Drew Streich",
+    "email": "Mabel.Monahan48@gmail.com",
+    "createdAt": "2024-04-29T23:32:28.632Z",
+    "updatedAt": "2024-04-29T23:32:28.632Z"
+  },
+  {
+    "id": "8fc5bc09-ef30-42fa-bfe4-1ba20c94294d",
+    "name": "João Pedro",
+    "email": "kelsie88@gmail.com",
+    "createdAt": "2024-04-29T23:32:33.291Z",
+    "updatedAt": "2024-04-29T23:32:33.291Z"
+  },
+  {
+    "id": "682c33b7-1e9e-419d-b7e8-847f54c2d22f",
+    "name": "Jackeline",
+    "email": "jamar11@yahoo.com",
+    "createdAt": "2024-04-29T23:32:55.774Z",
+    "updatedAt": "2024-04-29T23:32:55.774Z"
+  },
+  {
+    "id": "80a85ce7-9f70-43f7-90ed-a820fb44be37",
+    "name": "Isai",
+    "email": "carolanne_dubuque@hotmail.com",
+    "createdAt": "2024-04-29T23:33:10.774Z",
+    "updatedAt": "2024-04-29T23:33:10.774Z"
+  },
+  {
+    "id": "cffbc558-1b7b-4c5a-afc0-fb74e7187525",
+    "name": "Donavon",
+    "email": "julio_heidenreich@gmail.com",
+    "createdAt": "2024-04-29T23:33:23.454Z",
+    "updatedAt": "2024-04-29T23:33:23.454Z"
+  },
+  {
+    "id": "16594c39-658a-4d61-aa7b-ca2b5ac343cd",
+    "name": "Marcia Bashirian",
+    "email": "Elisabeth.Heller@hotmail.com",
+    "createdAt": "2024-04-29T23:33:40.006Z",
+    "updatedAt": "2024-04-29T23:33:40.006Z"
+  },
+  {
+    "id": "ab3fcc67-04e3-4c6a-9831-4ead5874dfe6",
+    "name": "faker Madonna",
+    "email": "eldridge.johnson15@hotmail.com",
+    "createdAt": "2024-04-29T23:34:13.719Z",
+    "updatedAt": "2024-04-29T23:34:13.719Z"
+  },
+  {
+    "id": "570c6e6c-a29d-46f1-b961-096cc893a543",
+    "name": "faker Tatyana",
+    "email": "mateo76@hotmail.com",
+    "createdAt": "2024-04-29T23:34:23.859Z",
+    "updatedAt": "2024-04-29T23:34:23.859Z"
+  },
+  {
+    "id": "c629ceea-174e-40d4-9d87-652a8f4528e2",
+    "name": "Dereck",
+    "email": "vada.stoltenberg-weber68@hotmail.com",
+    "createdAt": "2024-04-29T23:34:42.200Z",
+    "updatedAt": "2024-04-29T23:34:42.200Z"
+  },
+  {
+    "id": "519dab3e-1ab2-4d2f-9326-d19d21ad8ac7",
+    "name": "Rafael Elias",
+    "email": "rafa@qa.com.br",
+    "createdAt": "2024-04-29T23:34:55.410Z",
+    "updatedAt": "2024-04-29T23:34:55.410Z"
+  }
+]

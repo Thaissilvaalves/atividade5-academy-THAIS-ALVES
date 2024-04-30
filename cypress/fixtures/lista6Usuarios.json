@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a73ee322-cd82-4bac-81f0-0b7147a06fd3",
+    "name": "Stevie",
+    "email": "maximus83@yahoo.com",
+    "createdAt": "2024-04-29T23:32:03.651Z",
+    "updatedAt": "2024-04-29T23:32:03.651Z"
+  },
+  {
+    "id": "ed5b9203-5c7e-4a45-9790-7121b95b578e",
+    "name": "Kristi Greenfelder",
+    "email": "Annamae.Rempel@yahoo.com",
+    "createdAt": "2024-04-29T23:32:17.492Z",
+    "updatedAt": "2024-04-29T23:32:17.492Z"
+  },
+  {
+    "id": "cea04bea-1c64-4f4e-a2d0-e7b7a4b83b8a",
+    "name": "Drew Streich",
+    "email": "Mabel.Monahan48@gmail.com",
+    "createdAt": "2024-04-29T23:32:28.632Z",
+    "updatedAt": "2024-04-29T23:32:28.632Z"
+  },
+  {
+    "id": "8fc5bc09-ef30-42fa-bfe4-1ba20c94294d",
+    "name": "João Pedro",
+    "email": "kelsie88@gmail.com",
+    "createdAt": "2024-04-29T23:32:33.291Z",
+    "updatedAt": "2024-04-29T23:32:33.291Z"
+  },
+  {
+    "id": "682c33b7-1e9e-419d-b7e8-847f54c2d22f",
+    "name": "Jackeline",
+    "email": "jamar11@yahoo.com",
+    "createdAt": "2024-04-29T23:32:55.774Z",
+    "updatedAt": "2024-04-29T23:32:55.774Z"
+  },
+  {
+    "id": "80a85ce7-9f70-43f7-90ed-a820fb44be37",
+    "name": "Isai",
+    "email": "carolanne_dubuque@hotmail.com",
+    "createdAt": "2024-04-29T23:33:10.774Z",
+    "updatedAt": "2024-04-29T23:33:10.774Z"
+  }
+]

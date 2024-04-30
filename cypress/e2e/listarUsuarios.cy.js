@@ -8,7 +8,7 @@ describe("Testes de rotas / list users", () => {
   });
 
   it("Deve aparecer a opção de cadastrar um usuário caso a lista seja vazia", () => {
-    cy.intercept("GET", "", {
+    cy.intercept("GET", "/api/v1/users", {
       statusCode: 200,
       body: [],
     });
@@ -23,5 +23,19 @@ describe("Testes de rotas / list users", () => {
       "equal",
       "https://rarocrud-frontend-88984f6e4454.herokuapp.com/users/novo"
     );
+  });
+  let buttonProxima = "#paginacaoProximo";
+  it("Não deve ser possível clicar no botão próxima quando existem somente 6 usuários cadastrados", () => {
+    cy.intercept("GET", "/api/v1/users", {
+      fixture: "lista6Usuarios.json",
+    });
+    cy.get(buttonProxima).should("be.disabled");
+  });
+
+  it("Deve ser possível clicar no botão próxima quando existem 12 usuários cadastrados", () => {
+    cy.intercept("GET", "/api/v1/users", {
+      fixture: "lista12Usuarios.json",
+    });
+    cy.get(buttonProxima).should("be.enabled");
   });
 });
